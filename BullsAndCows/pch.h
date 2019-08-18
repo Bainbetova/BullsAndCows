@@ -11,4 +11,10 @@
 
 // TODO: add headers that you want to pre-compile here
 
+#include <iostream>
+#include <cstdlib>
+#include <vector>
+#include <ctime>
+#include <conio.h>
+
 #endif //PCH_H
